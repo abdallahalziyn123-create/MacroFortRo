@@ -1,1 +1,9 @@
-
+{
+  "allowed_hwids": [
+    "HWID123",
+    "HWID456",
+    "HWID789"
+  ],
+  "latest_version": "1.2",
+  "download_link": "https://github.com/abdallahalziyn123-create/MacroFortRo"
+}
